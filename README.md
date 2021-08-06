@@ -3,13 +3,10 @@
 ### CEO & CTO AmeFarma
 
 Welcome to my projects portfolio
-
-I'd like to share some projects made by myself with development purposes
+I'd like to share some projects made by myself with development and business purposes
 
 **Background in** Javascript, PHP, HTML5, CSS/SCSS, Angular, Python, iOS and Android Developement, Linux Servers and AWS Environment
-**Experienced with** business operations and compliance with banks, state governments, taxes and payments in Brazil (Pix included)
+**Experienced with** business operations and integration with banks, state governments, agencies, taxes/fees and payments in Brazil (Pix included)
+**Familiar with** XML, JSON, webservices and web protocols
 
-
-**Links:**
-* Link 1
-
+**External Links:**
