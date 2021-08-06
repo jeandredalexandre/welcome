@@ -3,4 +3,4 @@
 
 Welcome to my projects portfolio
 
-I use this place to share some projects made by myself with development and business purposes
+I use this space to share some projects made by myself - and contributors - with development and business purposes
